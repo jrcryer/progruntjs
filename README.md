@@ -1,1 +1,1 @@
-[Pro Grunt.js](http://www.progrunt.js)
+[Pro Grunt.js](http://www.progruntjs.com)
